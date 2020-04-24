@@ -1,4 +1,4 @@
-This write-up for this exploit can be found on our [website](https://secret.club/2020/04/24/directory-deletion-shell.html)
+This write-up for this exploit can be found on our [website](https://secret.club/2020/04/23/directory-deletion-shell.html)
 
 Vulnerabilities enabling an unprivileged profile to make a service, run in SYSTEM security context or delete an arbitrary directory/file are not a rare occurrence.
 They are mostly ignored by security researchers doing vulnerability hunting- as there is no established path to escalation of privilege using such a primitive.
